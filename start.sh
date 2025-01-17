@@ -1,0 +1,1 @@
+nohup ./modplus.sh &
