@@ -1,0 +1,13 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: "/"
+    schedule:
+      interval: daily
+    versioning-strategy: increase
+    commit-message:
+      prefix: "update requirements.txt"
+    groups:
+      python-packages:
+        patterns:
+          - "*"
