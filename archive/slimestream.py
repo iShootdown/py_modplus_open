@@ -24,7 +24,7 @@ def embederr(msg):
 	return embederror
 
 def auth():
-	return "AIzaSyAQyArX8FSXGR1cjhJhNG7yY9VVKKaLiY0"
+	return "" # insert Google Youtube API key here
 
 def generate_headers():
 	return {
