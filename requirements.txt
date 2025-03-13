@@ -17,6 +17,4 @@ propcache==0.3.0
 pycares==4.5.0
 pycparser==2.22
 pytesseract==0.3.13
-setuptools==76.0.0
-wheel==0.45.1
 yarl==1.18.3
