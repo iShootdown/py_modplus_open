@@ -14,7 +14,7 @@ opencv-python-headless==4.11.0.86
 packaging==24.2
 pillow==11.1.0
 propcache==0.3.1
-pycares==4.5.0
+pycares==4.6.0
 pycparser==2.22
 pytesseract==0.3.13
-yarl==1.18.3
+yarl==1.19.0
