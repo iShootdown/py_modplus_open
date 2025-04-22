@@ -11,6 +11,3 @@ updates:
       python-packages:
         patterns:
           - "*"
-    ignore:
-      - dependency-name: "protobuf"
-        update-types: [ "version-update:semver-major" ]
