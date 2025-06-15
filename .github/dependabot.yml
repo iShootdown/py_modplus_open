@@ -3,7 +3,9 @@ updates:
   - package-ecosystem: pip
     directory: "/"
     schedule:
-      interval: daily
+      interval: "daily"
+      time: "08:00"
+      timezone: "Asia/Tokyo"
     versioning-strategy: increase
     commit-message:
       prefix: "update requirements.txt"
