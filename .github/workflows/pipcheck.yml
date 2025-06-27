@@ -2,7 +2,8 @@ name: Check Python Dependency Conflicts
 
 on:
   pull_request:
-    types: [review_requested]
+    branches:
+      - master
 
 jobs:
   dependency-conflict-check:
