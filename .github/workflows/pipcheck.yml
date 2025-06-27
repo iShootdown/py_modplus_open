@@ -3,7 +3,7 @@ name: Check Python Dependency Conflicts
 on:
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   dependency-conflict-check:
