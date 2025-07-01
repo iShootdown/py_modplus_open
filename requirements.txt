@@ -8,11 +8,11 @@ cffi==1.17.1
 discord.py==2.5.2
 frozenlist==1.7.0
 idna==3.10
-multidict==6.6.2
+multidict==6.6.3
 numpy==2.2.4
 opencv-python-headless==4.11.0.86
 packaging==25.0
-pillow==11.2.1
+pillow==11.3.0
 propcache==0.3.2
 pycares==4.9.0
 pycparser==2.22
