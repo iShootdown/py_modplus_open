@@ -16,3 +16,5 @@ updates:
     ignore:
       - dependency-name: "numpy"
         update-types: [ "version-update:semver-minor" ]
+      - dependency-name: "pycares"
+        update-types: [ "version-update:semver-major" ]
