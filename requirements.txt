@@ -12,10 +12,10 @@ idna==3.11
 multidict==6.7.0
 numpy==2.2.6
 opencv-python-headless==4.13.0.90
-packaging==25.0
+packaging==26.0
 pillow==12.1.0
 propcache==0.4.1
 pycares==5.0.1
-pycparser==2.23
+pycparser==3.0
 pytesseract==0.3.13
 yarl==1.22.0
