@@ -11,7 +11,7 @@ frozenlist==1.8.0
 idna==3.11
 multidict==6.7.1
 numpy==2.2.6
-opencv-python-headless==4.13.0.90
+opencv-python-headless==4.13.0.92
 packaging==26.0
 pillow==12.1.0
 propcache==0.4.1
