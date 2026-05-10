@@ -8,13 +8,13 @@ certifi==2026.4.22
 cffi==2.0.0
 discord.py==2.7.1
 frozenlist==1.8.0
-idna==3.13
+idna==3.14
 multidict==6.7.1
 numpy==2.2.6
 opencv-python-headless==4.13.0.92
 packaging==26.2
 pillow==12.2.0
-propcache==0.4.1
+propcache==0.5.2
 pycares==5.0.1
 pycparser==3.0
 pytesseract==0.3.13
