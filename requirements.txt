@@ -1,10 +1,10 @@
-aiodns==4.0.3
-aiohappyeyeballs==2.6.1
+aiodns==4.0.4
+aiohappyeyeballs==2.6.2
 aiohttp==3.13.5
 aiosignal==1.4.0
 attrs==26.1.0
 audioop-lts==0.2.2
-certifi==2026.4.22
+certifi==2026.5.20
 cffi==2.0.0
 discord.py==2.7.1
 frozenlist==1.8.0
@@ -18,4 +18,4 @@ propcache==0.5.2
 pycares==5.0.1
 pycparser==3.0
 pytesseract==0.3.13
-yarl==1.23.0
+yarl==1.24.2
